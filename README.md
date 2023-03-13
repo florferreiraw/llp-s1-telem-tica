@@ -1,2 +1,2 @@
-# llp-s1-telem-tica
+# llp-s1-telematica
 Repositório da disciplina de lógica e linguagem de programação
