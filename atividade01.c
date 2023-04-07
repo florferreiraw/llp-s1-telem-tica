@@ -1,0 +1,1 @@
+//Programa que leia a diagonal principal de uma matriz quadrada
