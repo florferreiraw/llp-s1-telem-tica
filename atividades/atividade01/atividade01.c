@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Atividade de Linguagem de Lógica e Programação IFCE
+//Atividade de Lógica e Linguagem de Programação IFCE
 //Implementar um programa em C que faz :
 //1) Imprime a diagonal principal de uma matriz quadrada qualquer;
 //2) Calcula a matriz soma de duas matrizes quadradas.
