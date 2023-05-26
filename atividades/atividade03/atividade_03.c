@@ -1,4 +1,4 @@
-#include <stdio.h >                                                                                                              
+#include <stdio.h>                                                                                                              
 
 // Atividade 3 de Lógica e Linguagm de programação C - IFCE 1°Semestre-TELEMÁTICA
 // Professor Ricardo Taveira
