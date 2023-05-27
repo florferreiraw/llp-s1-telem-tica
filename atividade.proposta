@@ -1,4 +1,0 @@
-git clone https://github.com/ricdtaveira/llp-telematica/blob/824d2c6e54f3390aebe756af2b2f73efb4610229/12_enum_union/12_eu_01.c
-git add . 
-git commit -m "primeiro commit"
-git push 
