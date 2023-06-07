@@ -27,7 +27,7 @@ int main() {
 
     fclose(arquivo);
 
-    printf("Contagem de letras no arquivo:\n");
+    printf("Quantidade de vezes que cada letra do alfabeto se repete no arquivo:\n");
     for (int i = 0; i < 26; i++) {
         printf("%c: %d\n", 'A' + i, contagem[i]);
     }
